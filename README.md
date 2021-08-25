@@ -1,2 +1,4 @@
-# Advanced_Software_Engineering
- 
+# Metrics Suite
+The problem of computing various difficult software development metrics affects the team's ability to collect sufficient information about the quality of the software development lifecycle and its product. The impact of which is reduced effectiveness of the lifecycle team to produce quality code and learn from mistakes. A successful solution would be to automate to the largest extent possible the collection and computation of these metrics and maintain them for future reference.
+
+The Metrics Suite is a software application that provides a GUI and allows the software engineers and other developers to collect, calculate, review organization, and retrieval of serveral commonly used software lifecycle metrics including Function Points, Use Case Points, and Software Maturity Index.
